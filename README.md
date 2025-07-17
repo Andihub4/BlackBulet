@@ -1,2 +1,3 @@
 # BlackBulet
-BlackBulet digital weppon store for criminals
+BlackBulet is market where digital weapons selling and buying.
+
