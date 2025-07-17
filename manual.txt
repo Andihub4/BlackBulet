@@ -1,0 +1,43 @@
+
+
+
+
+
+
+1 : result checking
+2: registration for school
+3: Claver student runking
+4:hated student runking
+5:news about school
+6: monitor of students
+
+maths < 50 0
+English < 50 0
+
+others < 50 may be 0 or 1
+
+Avg < 50 0
+
+Avg > 50 passed
+Avg > 60 good
+Avg > 70 very good
+Avg > 80 Excellent
+Avg > 90 Fantastic
+
+
+maths
+english
+chemistry
+physics
+biology
+IT
+Geography
+Citizen
+Economics
+Amharic
+W/gna
+H.P.E
+History
+
+Total=13 
+
